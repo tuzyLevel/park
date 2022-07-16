@@ -36,6 +36,6 @@ if (password.length >= 6) {
 }
 console.log(typeof password);
 
-if (password.includes(" ")) {
+if (youpassword.includes(" ")) {
   console.log("Oh you should remove space");
 }
