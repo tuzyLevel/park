@@ -19,4 +19,4 @@ const age = 90;
 if ((0 <= age && age < 5) || age >= 65) {
   console.log("FREE");
 } else if (age < 10) {
-}
+
