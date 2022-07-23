@@ -9,3 +9,5 @@ function sum(...nums) {
 }
 
 console.log(sum(1, 2, 3));
+
+function raceResult(gold, silver, ...others) {}

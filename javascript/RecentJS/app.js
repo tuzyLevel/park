@@ -15,6 +15,3 @@ const canine = { isFurry: true, family: "Caninae" };
 
 catDog = { ...feline, ...canine, family: "Steele" };
 console.log(catDog);
-
-
-{...[2, 4, 6, 8]}
